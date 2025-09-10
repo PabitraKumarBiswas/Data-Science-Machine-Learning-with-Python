@@ -10,4 +10,6 @@ print(a)
 
 1 == "This is also a String."
 
-print(1) 
+# print(1) 
+
+print(type(a))
