@@ -14,3 +14,5 @@ print(a)
 
 print(type(a)) #it is str
 print(type(1)) #it is int
+
+# class is like a framework.
