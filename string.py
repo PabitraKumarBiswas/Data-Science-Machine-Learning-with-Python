@@ -12,5 +12,5 @@ print(a)
 
 # print(1) 
 
-print(type(a))
-print(type(1))
+print(type(a)) #it is str
+print(type(1)) #it is int
