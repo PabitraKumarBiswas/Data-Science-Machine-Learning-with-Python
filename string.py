@@ -13,3 +13,4 @@ print(a)
 # print(1) 
 
 print(type(a))
+print(type(1))
