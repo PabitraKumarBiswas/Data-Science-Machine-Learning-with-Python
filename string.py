@@ -13,10 +13,13 @@ print(a)
 b = """This is also a string"""
 print(b)
 
+c = 1
+
 # print(1) 
 
 print(type(a)) #it is str
 print(type(1)) #it is int
 print(type(b)) #it is str
+print(type(c))
 
 # class is like a framework or design.
