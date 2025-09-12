@@ -1,1 +1,1 @@
-print(a[33])
+print(a[31])
