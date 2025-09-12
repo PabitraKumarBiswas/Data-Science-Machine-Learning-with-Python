@@ -23,4 +23,14 @@ print(a[len(a) -1])
 
 #last character print (short)
 
-print(a[-1]) #minus indexing count a string from the back
+print(a[-1]) #minus indexing count a string from the back 
+
+
+
+#immutable data type
+print(a[3])
+print(a[0])
+
+a[3] = 'N'
+
+print(a[3])
